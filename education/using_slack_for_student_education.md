@@ -23,7 +23,7 @@
 ### Почему я стал использовать Slack в обучении?
 
 - Можно разграничить каналы по типу записей в них. Закрытые для общения внутри групп, открытые для общего общения и для наполнения справочными материалами или публикацией важных новостей и объявлений.
-    ![slack](/img/using_slack_for_student_education/img_1.png)
+    ![slack](./img/using_slack_for_student_education/img_1.png)
 
     Правда сложно сразу сделать правильную, удобную систему каналов. Но со временем получилось.
 
@@ -39,15 +39,15 @@
 - Личные сообщения никто не отменял.
 
 - Удобно вставлять код программ, он сразу подсвечивается.
-![insert codes](/img/using_slack_for_student_education/img_2.png)
+![insert codes](./img/using_slack_for_student_education/img_2.png)
 
 - Можно фиксировать/закреплять необходимые сообщения. На скриншоте к предыдущему пункту справа видны как раз закреплённые сообщения.
 
 - Удобно вести беседы на определённые темы. Есть система комментариев к сообщениям.
-![threadings](/img/using_slack_for_student_education/img_3.png)
+![threadings](./img/using_slack_for_student_education/img_3.png)
 
 - Можно оставлять не только комментарии к сообщениям, но и своё отношение в виде эмодзи/смайликов
-![emoji](/img/using_slack_for_student_education/img_4.png)
+![emoji](./img/using_slack_for_student_education/img_4.png)
 
 - Можно интегрировать различные сервисы. Я чаще всего интегрирую GitHub, Trello. Для меня очень удобно, когда из одной программы можно сделать карточку в Trello и посмотреть кто куда и что запушил на GitHub
-![apps](/img/using_slack_for_student_education/img_5.png)
+![apps](./img/using_slack_for_student_education/img_5.png)

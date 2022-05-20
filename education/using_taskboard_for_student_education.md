@@ -31,15 +31,15 @@
 - Архив
 - Что необходимо изучить
 
-![trello](/img/using_taskboard_for_student_education/img_1.png)
+![trello](./img/using_taskboard_for_student_education/img_1.png)
 
 Выбираем со студентами тему проекта - какое приложение хотим реализовать. Составляем примерное ТЗ. Моделирую с ними а-ля стартап.
 
 Сам создаю доску, приглашаю в неё студентов, создаю колонки/разделы, подключаю GitHub
-![trello](/img/using_taskboard_for_student_education/img_2.png)
+![trello](./img/using_taskboard_for_student_education/img_2.png)
 
 Начинаем создавать карточки по задачам, задачи совместно определяем. Даю право выбора кто какую задачу хочет решить и тд.
-![trello](/img/using_taskboard_for_student_education/img_3.png)
+![trello](./img/using_taskboard_for_student_education/img_3.png)
 
 Описание задачи, чек-поинты, дедлайны - всё есть. Студенты присоединяются к карточке/задаче, перетаскивают её в раздел "В работе". Создают новую ветку, прикрепляют на неё ссылку. Выполняют, коммитят, пушат, готовят запросы на слияние.
 
@@ -66,23 +66,23 @@
 ### Порядок действия
 
 - Создаю карточки с темами необходимыми для изучения на общей доске в разделе "Необходимо изучить"
-![trello](/img/using_taskboard_for_student_education/img_4.png)
-![trello](/img/using_taskboard_for_student_education/img_5.png)
+![trello](./img/using_taskboard_for_student_education/img_4.png)
+![trello](./img/using_taskboard_for_student_education/img_5.png)
 
 - Студенты копируют эти карточки в свои личные доски
-![trello](/img/using_taskboard_for_student_education/img_6.png)
+![trello](./img/using_taskboard_for_student_education/img_6.png)
 
 - И как приступают к изучению - передвигают их в раздел "Изучаю"
-![trello](/img/using_taskboard_for_student_education/img_7.png)
+![trello](./img/using_taskboard_for_student_education/img_7.png)
 
 - Могут накапливать их сколько угодно. Раз в какое-то время проверяю какие там карточки "гниют". И перетаскиваю их в раздел "Приостановлено". Либо своим "волевым решением" перетаскиваю в "изучаемые темы"
 
 - Если студент считает, что изучил тему и хочет/необходимо проверки, то карточка перемещается в раздел "На проверке".
-![trello](/img/using_taskboard_for_student_education/img_8.png)
+![trello](./img/using_taskboard_for_student_education/img_8.png)
 
 - После, по результатам проверки, я перетаскиваю карточку либо в "Изучено", либо назад в "Необходимо изучить"
 
 Т.о. видно какие темы студент сейчас изучает, какие приостановлены у него и т.п.  В общей доске карточки перетаскиваются из "необходимо изучить" в "Изучено" только если все студенты изучили тему. В самой карточке по теме можно сделать чек-поинты с именами студентов и тогда отмечать кто изучил - будет видно на небольшом прогрессе на сколько группа справилась с темой.
-![trello](/img/using_taskboard_for_student_education/img_9.png)
+![trello](./img/using_taskboard_for_student_education/img_9.png)
 
 При взятии в работу темы студентов нужно просить выставлять дату начала изучения, чтобы можно было потом делать графики сколько времени на изучение каждому студенту необходимо.

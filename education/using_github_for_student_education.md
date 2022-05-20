@@ -44,18 +44,18 @@
 
 Что мне нравится в GitHub при обучении?
 - Поддержка аккаунтов для организаций, а в аккаунтах возможность создания команд с гибкими настройками доступов
-![github organizations](/img/using_github_for_student_education/img_1.png)
-![github organizations teams](/img/using_github_for_student_education/img_2.png)
-![github organizations teams role](/img/using_github_for_student_education/img_3.png)
+![github organizations](./img/using_github_for_student_education/img_1.png)
+![github organizations teams](./img/using_github_for_student_education/img_2.png)
+![github organizations teams role](./img/using_github_for_student_education/img_3.png)
 - Поддержка Markdown-разметки. Можно более "красиво" оформлять задания.
-![github markdown](/img/using_github_for_student_education/img_4.png)
+![github markdown](./img/using_github_for_student_education/img_4.png)
 - Система форков. Может любой человек сделать форк, а потом предложить запрос на слияние. Не всегда нужно всех студентов добавлять в команду.
-![github forks](/img/using_github_for_student_education/img_5.png)
+![github forks](./img/using_github_for_student_education/img_5.png)
 - Возможность комментировать участки кода при проведении ревью. Очень удобно указывать на сильные и слабые моменты в программах.
-![github codereview](/img/using_github_for_student_education/img_6.png)
+![github codereview](./img/using_github_for_student_education/img_6.png)
 - Возможность назначать ревьюером любого члена команды. Студенты должны уметь не только хорошо писать программы, но и проверять чужой код.
 - Система issues. Можно давать другим командам студентов задание на проверку кода и выявления багов, с занесением всего в issues.
-![github issues](/img/using_github_for_student_education/img_7.png)
+![github issues](./img/using_github_for_student_education/img_7.png)
 
 Для чего я приучаю студентов к GitHub'у?
 - Создание своего портфолио уже с самого начала обучения, а не только под конец.
@@ -75,14 +75,14 @@
 - В README.md добавляете текст задания и подробную (желательно, но не обязательно) инструкцию что и как должны сделать. Обязательно обращаете внимание на создание форка и после выполнения (читай, наполнения репозитория) создания запроса на слияние (pull request) с вашим исходным репозиторием.
 Пример - https://github.com/college-VIVT/TerminalEmulator
 В нужном месте сообщаете студентам задание и ссылку на репозиторий.
-![readme](/img/using_github_for_student_education/img_8.png)
+![readme](./img/using_github_for_student_education/img_8.png)
 
 - Ждёте выполнения задания, а точнее создания запроса на слияние.
-![pull requests](/img/using_github_for_student_education/img_9.png)
+![pull requests](./img/using_github_for_student_education/img_9.png)
 
 - Проверяете. Оставляете комментарии либо ко всему заданию целиком, либо к его отдельным частям.
-![code review](/img/using_github_for_student_education/img_10.png)
-![code review](/img/using_github_for_student_education/img_11.png)
+![code review](./img/using_github_for_student_education/img_10.png)
+![code review](./img/using_github_for_student_education/img_11.png)
 
 - Принимать (мерджить) запрос на слияние в данной ситуации не нужно. Если всё хорошо - то можно просто оставить комментарий в ревью кода. Если всё плохо - то не принимаете.
 
@@ -106,23 +106,23 @@
 
 ### .Примерный порядок действия.
 - Создаёте аккаунт организации
-![account organization](/img/using_github_for_student_education/img_12.png)
+![account organization](./img/using_github_for_student_education/img_12.png)
 
 - Добавляете в него студентов.
-![add students to organization](/img/using_github_for_student_education/img_13.png)
+![add students to organization](./img/using_github_for_student_education/img_13.png)
 
 - Создаёте репозиторий. В README.md добавляете текст задания. Также наполняете репозиторий предварительно необходимым минимумом (нужными файлами для выполнения задания). Создаёте необходимые ветви. Обычно создаю ветвь dev или develop
-![create repo](/img/using_github_for_student_education/img_14.png)
+![create repo](./img/using_github_for_student_education/img_14.png)
 
 - Студенты получив задания, делают ответвления от последнего коммита. Выполняют задания, коммитят. Задания можно выдавать как через issues, так и какой-нибудь сервис с Kanban или Scrum
-![create issues](/img/using_github_for_student_education/img_15.png)
+![create issues](./img/using_github_for_student_education/img_15.png)
 
 - Создают запрос на слияние
-![create pull request](/img/using_github_for_student_education/img_16.png)
+![create pull request](./img/using_github_for_student_education/img_16.png)
 
 - Проверяете. Оставляете комментарии либо ко всему заданию целиком, либо к его отдельным частям.
-![code review](/img/using_github_for_student_education/img_17.png)
-![code review](/img/using_github_for_student_education/img_18.png)
+![code review](./img/using_github_for_student_education/img_17.png)
+![code review](./img/using_github_for_student_education/img_18.png)
 
 #### Плюсы и минусы
 ##### Плюсы:
@@ -146,37 +146,37 @@
 Часть действий повторяются из предыдущего примера.
 
 - Создаёте аккаунт организации
-![account organization](/img/using_github_for_student_education/img_12.png)
+![account organization](./img/using_github_for_student_education/img_12.png)
 
 - Добавляете в него студентов.
-![add students to organization](/img/using_github_for_student_education/img_13.png)
+![add students to organization](./img/using_github_for_student_education/img_13.png)
 
 - Создаёте репозиторий. В README.md добавляете текст задания. Также наполняете репозиторий предварительно необходимым минимумом (нужными файлами для выполнения задания). Создаёте необходимые ветви. Обычно создаю ветвь dev или develop
-![create repo](/img/using_github_for_student_education/img_14.png)
+![create repo](./img/using_github_for_student_education/img_14.png)
 
 - Студенты получив задания, клонируют репозиторий себе на локальные машины.
-![clone repo](/img/using_github_for_student_education/img_19.png)
-![clone repo](/img/using_github_for_student_education/img_20.png)
+![clone repo](./img/using_github_for_student_education/img_19.png)
+![clone repo](./img/using_github_for_student_education/img_20.png)
 
 - По мере обсуждения решения выявляются подпроекты. Создаются команды под каждый подпроект. Для каждого подпроекта создаётся свой репозиторий с предварительным наполнением.
-![teams](/img/using_github_for_student_education/img_21.png)
-![teams](/img/using_github_for_student_education/img_22.png)
+![teams](./img/using_github_for_student_education/img_21.png)
+![teams](./img/using_github_for_student_education/img_22.png)
 
 - Команды выполняют задания, коммитят, пушат. Задания можно выдавать как через issues, так и какой-нибудь сервис с Kanban или Scrum
-![github projects](/img/using_github_for_student_education/img_23.png)
+![github projects](./img/using_github_for_student_education/img_23.png)
 
 - Создают запрос на слияние
-![create pull request](/img/using_github_for_student_education/img_16.png)
+![create pull request](./img/using_github_for_student_education/img_16.png)
 
 - Проверяете. Оставляете комментарии либо ко всему заданию целиком, либо к его отдельным частям.
-![code review](/img/using_github_for_student_education/img_17.png)
-![code review](/img/using_github_for_student_education/img_18.png)
+![code review](./img/using_github_for_student_education/img_17.png)
+![code review](./img/using_github_for_student_education/img_18.png)
 
 - Создаются релизы. Готовые DLL или ещё что берётся из релизов и подключается в основной проект.
-![realese](/img/using_github_for_student_education/img_24.png)
+![realese](./img/using_github_for_student_education/img_24.png)
 
 - В каждой команде ведётся техдокументация.
-![documentation](/img/using_github_for_student_education/img_25.png)
+![documentation](./img/using_github_for_student_education/img_25.png)
 
 #### Плюсы и минусы
 ##### Плюсы:
