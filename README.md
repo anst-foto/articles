@@ -8,6 +8,7 @@
 - [Использование досок с карточками в обучении](./education/using_taskboard_for_student_education.md)
 - [Как мы учим в Академии. Наставничество. Часть 1.](./education/mentorship.md)
 - [Как мы учим в Академии. Командная разработка игр в "Малой компьютерной академии".](./education/team_development_of_games_in_the_small_computer_academy.md)
+- [Как мы учим в Академии. Разработка консольных игр.](./education/development_of_console_games.md)
 
 ## Фотография
 - [.Что такое хорошо, что такое плохо.](./photo/what_is_good_what_is_bad.md)
