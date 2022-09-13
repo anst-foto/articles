@@ -6,6 +6,7 @@
 - [Использование GitHub в обучении студентов](./education/using_github_for_student_education.md)
 - [Использование Slack в обучении](./education/using_slack_for_student_education.md)
 - [Использование досок с карточками в обучении](./education/using_taskboard_for_student_education.md)
+- [Использование GitHub в обучении студентов. Автоматизация проверок.](./education/using_github_in_student_education_automation_of_checks.md)
 - [Как мы учим в Академии. Наставничество. Часть 1.](./education/mentorship.md)
 - [Как мы учим в Академии. Командная разработка игр в "Малой компьютерной академии".](./education/team_development_of_games_in_the_small_computer_academy.md)
 - [Как мы учим в Академии. Разработка консольных игр.](./education/development_of_console_games.md)
